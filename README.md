@@ -1,6 +1,6 @@
 # pomodoro
 
-A new Flutter project.
+Projeto desenvolvido para aprendizado das libs mobx e provider.
 
 ## Getting Started
 
